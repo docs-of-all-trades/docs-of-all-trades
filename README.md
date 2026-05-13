@@ -35,38 +35,5 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 :bulb:  Learn something new every day. 
 
 
-A few core tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,bootstrap)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,gatsby,nextjs,nuxtjs,vue,astro)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=php,java,js,ts,ruby,py,r,)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,gitlab,docker)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=idea,atom,visualstudio,vscode)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=netlify,vercel)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=figma,xd)](https://skills.thijs.gg)
-
-
-## 📮 How to reach me
-
-<a href="https://twitter.com/docsofalltrades"><img src="https://img.shields.io/badge/-%40_docsofalltrades-1CA2F1?style=flat&logo=twitter&logoColor=white"/></a>
-
-## 💼 Portfolio
-
-[Wappier Docs](https://docs.wappier.com/)
-
-[dSphere Docs](https://docs.dsphere.io/)
-
-[OCP Docs by Omilia](https://learn.ocp.ai/)
-
-[Omilia Docs content](https://github.com/docs-of-all-trades/omilia-docs) & [Omilia Docs UI](https://github.com/docs-of-all-trades/omilia-docs-ui) (upon request)
-
-[Apprenda Docs by Atos](https://docs.apprenda.com/)
-
-[Atos Unify Experts Wiki](https://wiki.unify.com/wiki/Overview)
 
