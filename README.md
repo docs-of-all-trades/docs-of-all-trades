@@ -19,11 +19,11 @@ My new one is knowing which model to route them to.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  coordinator agent                                       │
+│  coordinator agent                                      │
 │       ├── subagent: spec-auditor    (OpenAPI/AsyncAPI)  │
 │       ├── subagent: changelog-gen   (diff-aware MDX)    │
 │       ├── subagent: compliance-tagger (PSD2 · SCA · AML)│
-│       └── subagent: context-server  (MCP · RAG · LLM)  │
+│       └── subagent: context-server  (MCP · RAG · LLM)   │
 └─────────────────────────────────────────────────────────┘
 ```
 
