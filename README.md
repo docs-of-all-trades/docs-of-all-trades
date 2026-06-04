@@ -66,23 +66,7 @@ My new one is knowing which model to route them to.
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Spectral](https://img.shields.io/badge/Spectral_(custom_rulesets)-FF5733?style=flat-square&logoColor=white)
 
----
 
-## Active portfolio
-
-| Project | What it does | Status |
-|---|---|---|
-| 🔍 **OpenAPI AI-Readiness Auditor** | Agentic linter that scores specs for LLM-consumability | 🔨 Building |
-| 🧩 **Developer Context MCP Server** | Serves structured API context to Claude agents and IDE copilots | 🔨 Building |
-| 📋 **Changelog Multi-Agent System** | Coordinator + subagents that diff specs and generate human-readable changelogs | 🔨 Building |
-| 🏦 **Regulatory Compliance Agent** | PSD2 / SCA / GDPR annotation engine for OpenAPI specs | 🔨 Building |
-
----
-
-## Certifications
-
-🏅 **Claude Certified Architect (CCA-F)** — in progress · expected June 2026  
-🏅 **SAFe® Agile Practitioner** — Level 5
 
 ---
 
