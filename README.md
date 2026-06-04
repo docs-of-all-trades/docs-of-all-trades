@@ -4,35 +4,93 @@
 <img src="https://github.com/docs-of-all-trades/Bio/blob/main/kk.png" width="434" 
      height="386" align="right">
 
-##  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Howdy, glad you joined!
+I'm **Kaye / Konstantinos** — an AI systems engineer who spent a decade mastering developer experience before the models got good enough to build with.
 
-I'm Constantine/Kaye, a docs tinkerman & a silver-lining specialist with more than a decade of experience in planning, designing, developing, delivering and maintaining Documentation for a variety of audiences and purposes. 
+I design, ship, and operate **AI-native infrastructure**: agent orchestration systems, RAG pipelines, MCP servers, and the kind of context-aware tooling that makes entire engineering orgs move faster.
 
-My specialty is presenting complex ideas in ways that are clear and concise. My superpower is asking the right questions. 
+My superpower is still asking the right questions.  
+My new one is knowing which model to route them to.
 
-## In a nutshell
+> `Think.Prompt.Review.Ship.Govern.Be accountable_`
 
-⛓️ Create content to attract and onboard.
+---
 
-:keyboard:  Joyously craft and maintain structured, user-focused technical content to enable users to achieve their goals.
+## What I build
 
-:hammer_and_pick:  Work in various content source formats to develop structured content that answers questions and solves business problems.
+```
+┌─────────────────────────────────────────────────────────┐
+│  coordinator agent                                       │
+│       ├── subagent: spec-auditor    (OpenAPI/AsyncAPI)  │
+│       ├── subagent: changelog-gen   (diff-aware MDX)    │
+│       ├── subagent: compliance-tagger (PSD2 · SCA · AML)│
+│       └── subagent: context-server  (MCP · RAG · LLM)  │
+└─────────────────────────────────────────────────────────┘
+```
 
-:label:  Use well-defined GitHub and Jira issues to collaborate, plan, track and trigger documentation and content strategy tasks.
+🤖 **Multi-agent systems** — coordinator–subagent orchestration, dynamic replanning, hub-and-spoke topologies using the Claude Agent SDK  
+🔌 **MCP server design** — custom tool interfaces, scoped access control, `stdio` + Streamable HTTP transports  
+🧠 **RAG pipelines** — semantic retrieval on structured knowledge bases (BookStack + LLM layer, Qdrant, tree-sitter AST chunking)  
+⚙️ **Claude Code workflows** — `.claud` config, `CLAUDE.md` hierarchies, skill packs, CI/CD pipeline embedding  
+📐 **Prompt engineering** — XML-tagged system prompts, few-shot design, JSON schema validation loops, chain-of-thought  
 
-:sparkle:  Always strive to improve products and processes.
+---
 
-:wave:  Use Slack and Discord to keep in touch and build relationships with colleagues, community members and documentarians near and far.
+## Stack
 
-:pushpin:  Manage knowledge, collaborate for the greater good and share ideas.  
+**AI & Agents**
 
-:earth_americas:  Work with smart people around the globe who innovate, collaborate and celebrate.
+![Claude](https://img.shields.io/badge/Claude_Agent_SDK-191919?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server_Design-5C4EE5?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0E7C5B?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
 
-## In the simplest terms and most convenient definitions
+**Dev**
 
-:high_brightness: Intelligence. Positive vibes. Education. Respect.  Love._
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-:bulb:  Learn something new every day. 
+**Portals & Pipelines**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**API**
+
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![AsyncAPI](https://img.shields.io/badge/AsyncAPI-00A98F?style=flat-square&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Spectral](https://img.shields.io/badge/Spectral_(custom_rulesets)-FF5733?style=flat-square&logoColor=white)
+
+---
+
+## Active portfolio
+
+| Project | What it does | Status |
+|---|---|---|
+| 🔍 **OpenAPI AI-Readiness Auditor** | Agentic linter that scores specs for LLM-consumability | 🔨 Building |
+| 🧩 **Developer Context MCP Server** | Serves structured API context to Claude agents and IDE copilots | 🔨 Building |
+| 📋 **Changelog Multi-Agent System** | Coordinator + subagents that diff specs and generate human-readable changelogs | 🔨 Building |
+| 🏦 **Regulatory Compliance Agent** | PSD2 / SCA / GDPR annotation engine for OpenAPI specs | 🔨 Building |
+
+---
+
+## Certifications
+
+🏅 **Claude Certified Architect (CCA-F)** — in progress · expected June 2026  
+🏅 **SAFe® Agile Practitioner** — Level 5
+
+---
+
+## In the simplest terms
+
+`Intelligence. Positive vibes. Education. Respect. Love.`  
+Learn something new every day.  
+Then build something with it.
 
 
 
