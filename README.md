@@ -64,9 +64,6 @@ My new one is knowing which model to route them to.
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![AsyncAPI](https://img.shields.io/badge/AsyncAPI-00A98F?style=flat-square&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Spectral](https://img.shields.io/badge/Spectral_(custom_rulesets)-FF5733?style=flat-square&logoColor=white)
-
-
 
 ---
 
