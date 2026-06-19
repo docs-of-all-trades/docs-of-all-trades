@@ -68,7 +68,6 @@ My new one is knowing which model to route them to.
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Fumadocs](https://img.shields.io/badge/Fumadocs-000000?style=flat-square&logoColor=white)
 ![Backstage](https://img.shields.io/badge/Backstage.io-9BF0E1?style=flat-square&logo=backstage&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white)
