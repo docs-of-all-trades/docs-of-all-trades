@@ -44,6 +44,15 @@ My new one is knowing which model to route them to.
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0E7C5B?style=flat-square&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
 
+**Docs & Authoring**
+
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
+![AsciiDoc](https://img.shields.io/badge/AsciiDoc-E40046?style=flat-square&logoColor=white)
+![DITA](https://img.shields.io/badge/DITA-005A9C?style=flat-square&logoColor=white)
+![Markdoc](https://img.shields.io/badge/Markdoc-1A1A1A?style=flat-square&logoColor=white)
+![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-26A69A?style=flat-square&logoColor=white)
+
 **Dev**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -51,10 +60,23 @@ My new one is knowing which model to route them to.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-**Portals & Pipelines**
+**Frameworks & Portals**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Fumadocs](https://img.shields.io/badge/Fumadocs-000000?style=flat-square&logoColor=white)
+![Backstage](https://img.shields.io/badge/Backstage.io-9BF0E1?style=flat-square&logo=backstage&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white)
+![Scully](https://img.shields.io/badge/Scully.io-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Pipelines**
+
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -64,6 +86,14 @@ My new one is knowing which model to route them to.
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![AsyncAPI](https://img.shields.io/badge/AsyncAPI-00A98F?style=flat-square&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Cloud](https://img.shields.io/badge/Adobe_Cloud-DA1F26?style=flat-square&logo=adobe&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
