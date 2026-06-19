@@ -4,9 +4,9 @@
 <img src="https://github.com/docs-of-all-trades/Bio/blob/main/kk.png" width="434" 
      height="386" align="right">
 
-I'm **Kaye / Konstantinos** — an AI systems engineer who spent a decade mastering developer experience before the models got good enough to build with.
+I'm **Kaye / Konstantinos** — a docs engineer who spent a decade mastering developer experience before the models got good enough to build with.
 
-I design, ship, and operate **AI-native infrastructure**: agent orchestration systems, RAG pipelines, MCP servers, and the kind of context-aware tooling that makes entire engineering orgs move faster.
+I design, ship, and operate **AI-native docs infrastructure**: agent orchestration systems, RAG pipelines, MCP servers, and the kind of context-aware tooling that makes entire engineering orgs move faster.
 
 My superpower is still asking the right questions.  
 My new one is knowing which model to route them to.
