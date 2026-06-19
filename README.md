@@ -15,16 +15,6 @@ My new one is knowing which model to route them to.
 
 ---
 
-## What I build
-
-🤖 **Multi-agent systems** — coordinator–subagent orchestration, dynamic replanning, hub-and-spoke topologies using the Claude Agent SDK  
-🔌 **MCP server design** — custom tool interfaces, scoped access control, `stdio` + Streamable HTTP transports  
-🧠 **RAG pipelines** — semantic retrieval on structured knowledge bases (BookStack + LLM layer, Qdrant, tree-sitter AST chunking)  
-⚙️ **Claude Code workflows** — `.claud` config, `CLAUDE.md` hierarchies, skill packs, CI/CD pipeline embedding  
-📐 **Prompt engineering** — XML-tagged system prompts, few-shot design, JSON schema validation loops, chain-of-thought  
-
----
-
 ## Stack
 
 **Docs & Authoring**
