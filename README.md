@@ -17,16 +17,6 @@ My new one is knowing which model to route them to.
 
 ## What I build
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  coordinator agent                                      │
-│       ├── subagent: spec-auditor    (OpenAPI/AsyncAPI)  │
-│       ├── subagent: changelog-gen   (diff-aware MDX)    │
-│       ├── subagent: compliance-tagger (PSD2 · SCA · AML)│
-│       └── subagent: context-server  (MCP · RAG · LLM)   │
-└─────────────────────────────────────────────────────────┘
-```
-
 🤖 **Multi-agent systems** — coordinator–subagent orchestration, dynamic replanning, hub-and-spoke topologies using the Claude Agent SDK  
 🔌 **MCP server design** — custom tool interfaces, scoped access control, `stdio` + Streamable HTTP transports  
 🧠 **RAG pipelines** — semantic retrieval on structured knowledge bases (BookStack + LLM layer, Qdrant, tree-sitter AST chunking)  
