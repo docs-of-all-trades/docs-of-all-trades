@@ -27,13 +27,6 @@ My new one is knowing which model to route them to.
 
 ## Stack
 
-**AI & Agents**
-
-![Claude](https://img.shields.io/badge/Claude_Agent_SDK-191919?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Server_Design-5C4EE5?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0E7C5B?style=flat-square&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
-
 **Docs & Authoring**
 
 ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
