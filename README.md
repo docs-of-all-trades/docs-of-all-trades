@@ -11,7 +11,7 @@ I design, ship, and operate **AI-native docs infrastructure**: agent orchestrati
 My superpower is still asking the right questions.  
 My new one is knowing which model to route them to.
 
-> `Think.Prompt.Review.Ship.Govern.Be accountable_`
+> `Think.Review.Ship.Govern.Be accountable_`
 
 ---
 
@@ -33,7 +33,6 @@ My new one is knowing which model to route them to.
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen2.5--Coder-6B4FBB?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
 
@@ -43,8 +42,6 @@ My new one is knowing which model to route them to.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-2D6A4F?style=flat-square&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenAI TTS](https://img.shields.io/badge/OpenAI_TTS-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Dev**
 
