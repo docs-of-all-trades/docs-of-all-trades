@@ -26,6 +26,26 @@ My new one is knowing which model to route them to.
 ![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white)
 ![i18n](https://img.shields.io/badge/i18n-26A69A?style=flat-square&logoColor=white)
 
+**Agent & AI Tooling**
+
+![MCP](https://img.shields.io/badge/MCP-1A1A2E?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen2.5--Coder-6B4FBB?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![Kuzu](https://img.shields.io/badge/Kuzu-F97316?style=flat-square&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logoColor=white)
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-2D6A4F?style=flat-square&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI TTS](https://img.shields.io/badge/OpenAI_TTS-412991?style=flat-square&logo=openai&logoColor=white)
+
 **Dev**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
